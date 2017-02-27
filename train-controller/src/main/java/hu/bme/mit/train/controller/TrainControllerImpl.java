@@ -12,7 +12,7 @@ public class TrainControllerImpl implements TrainController {
 	public void followSpeed() {
 
 
-		referenceSpeed += st_ep;
+		referenceSpeed += step;
 
 
 		if (referenceSpeed < 0)
