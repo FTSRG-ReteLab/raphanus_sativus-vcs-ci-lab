@@ -32,7 +32,8 @@ public class TrainControllerImpl implements TrainController {
 	}
 
 	private void printReferenceSpeed(){
-		System.out.println("B " + this.referenceSpeed);
+
+		System.out.println("C " + this.referenceSpeed);
 	}
 
 	private void enforceSpeedLimit() {
