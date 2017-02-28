@@ -1,4 +1,4 @@
-# raphanus_sativus-vcs-ci-lab
+# raphanus_sativus-vcs-ci-lab [![Build Status](https://travis-ci.org/FTSRG-ReteLab/raphanus_sativus-vcs-ci-lab.svg?branch=master)](https://travis-ci.org/FTSRG-ReteLab/raphanus_sativus-vcs-ci-lab)
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
